@@ -1,6 +1,6 @@
 # gastosdecimouno
 
-A new Flutter project.
+Desarrollo de una aplicación móvil utilizando Flutter y Firebase para gestionar los gastos personales de los usuarios. La aplicación proporcionará reportes detallados, análisis de presupuestos, y herramientas para mejorar la administración financiera personal
 
 ## Getting Started
 
